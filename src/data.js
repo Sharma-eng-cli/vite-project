@@ -1,0 +1,17 @@
+let foodMenu= [{name:"Coffee", imageUrl:"https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"200"},
+
+    {name:"Biryani", imageUrl:"https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"400"},
+
+    {name:"Paneer shahi", imageUrl:"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTgGngQSnS2MIt4VFehNdJ9JFOMVaA71dQecSwUgp1mqYjS2LywrUuVg2H4jJ_LObiEAVxmxbrjWtAbs2bbOapW4lwqa0uNLXgisOzhQ", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"300"},
+
+    {name:"Dosa", imageUrl:"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/dosa-recipe.jpg", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"230"}
+    ,{name:"Coffee", imageUrl:"https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"200"},
+
+    {name:"Biryani", imageUrl:"https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"400"},
+
+    {name:"Paneer shahi", imageUrl:"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTgGngQSnS2MIt4VFehNdJ9JFOMVaA71dQecSwUgp1mqYjS2LywrUuVg2H4jJ_LObiEAVxmxbrjWtAbs2bbOapW4lwqa0uNLXgisOzhQ", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"300"},
+
+    {name:"Dosa", imageUrl:"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/dosa-recipe.jpg", description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, velit, labore illo vel esse, nostrum reprehenderit enim a nesciunt incidunt praesentium voluptatem quisquam inventore vero provident dolore numquam ipsum iste!", price:"230"} 
+    ]
+
+    export default foodMenu;
